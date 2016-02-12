@@ -1,6 +1,6 @@
-# NODE ultra-fast RESTful api
+# NODE.JS ultra-fast RESTful api
 
-This project is a very basic boiler plate for starting a micro blog backend service to cast easy as hell RESTful Apis, to start you project
+This project is a very basic boilerplate for starting a micro blog backend service to cast easy as hell RESTful Apis, to start you project
 
   - Clone this project
   - Run npm i inside project's root folder
